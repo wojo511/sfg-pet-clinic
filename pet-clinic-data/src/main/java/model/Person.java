@@ -1,4 +1,4 @@
-package wojciechkorys.springframework.sfgpetclinic.model;
+package model;
 
 public class Person {
 
