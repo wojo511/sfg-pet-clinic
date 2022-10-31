@@ -51,6 +51,6 @@
 
 
   <scm>
-    <tag>0.0.1</tag>
+    <developerConnection>scm:git:https://github.com/wojo511/sfg-pet-clinic.git</developerConnection>
   </scm>
 </project>
