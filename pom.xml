@@ -50,8 +50,6 @@
         </plugins>
     </build>
 
-
-
   <scm>
     <developerConnection>scm:git:https://github.com/wojo511/sfg-pet-clinic.git</developerConnection>
 
