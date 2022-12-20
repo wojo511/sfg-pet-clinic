@@ -1,10 +1,12 @@
 package wojciechkorys.springframework.sfgpetclinic.services.map;
 
+import org.springframework.stereotype.Service;
 import wojciechkorys.springframework.sfgpetclinic.model.Visit;
 import wojciechkorys.springframework.sfgpetclinic.services.VisitService;
 
 import java.util.Set;
 
+@Service
 public class VisitMapService extends AbstractMapService<Visit, Long> implements VisitService {
     @Override
     public Set<Visit> findAll() {
